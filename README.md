@@ -5,8 +5,8 @@
 ## 🚀 See Video
 
 <details>
-<summary>See ScreenShots</summary>
-<img![Record_2023-10-05-21-44-42](https://github.com/sharma-dushyant/Weather_App/assets/87010265/395ca7f8-51ce-48c4-afc9-a2af864f04d6)/img>
+<summary>See Video</summary>
+
 </details>
 
 ## Getting Started
