@@ -1,12 +1,15 @@
-<h1 align="center">Welcome to Flutter Weather 👋</h1>
+<h1 align="center">Welcome to Flutter Weather App 👋</h1>
 
 > Weather App Built with Flutter and OpenWeatherMap API
 
 ## 🚀 See Video
 
-<details>![Uploading Record_2023-10-05-21-44-42.gif…]()
+<details>
+<summary>See ScreenShots</summary>
+<img src="https://user-images.githubusercontent.com/59178380/106931874-e0116d00-6738-11eb-909f-6db0d4c2a12e.png" alt="" width=300></img>
+<img src="https://user-images.githubusercontent.com/59178380/106931850-d8ea5f00-6738-11eb-93c1-c162f40fd640.png" alt="" width=300></img>
+</details>
 
-    
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
