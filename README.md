@@ -53,7 +53,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-## 📝 License
-
-Copyright © 2021 [Hanzla Tauqeer](https://github.com/1hanzla100).<br />
-This project is [GPL-3.0](https://github.com/1hanzla100/flutter-weather/blob/master/LICENSE) licensed.
