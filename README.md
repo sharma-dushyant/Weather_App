@@ -40,7 +40,7 @@ Prerequisite: https://flutter.dev/docs/get-started/install
 
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **Dushyant Sharma**
 
 * Github: [@sharma-dushyant](https://github.com/sharma-dushyant)
 * LinkedIn: [@Dushyant Sharma](https://www.linkedin.com/in/d-sharma99/)
