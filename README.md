@@ -22,7 +22,7 @@ Prerequisite: https://flutter.dev/docs/get-started/install
 
 2. Clone the repo.
     ```sh
-     git clone https://github.com/1hanzla100/flutter-weather
+     https://github.com/sharma-dushyant/Weather_App.git
     ```
 3. Install packages.
     ```sh
