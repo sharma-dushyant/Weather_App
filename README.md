@@ -4,9 +4,8 @@
 
 ## 🚀 See Video
 
-<details>
-<summary>See Video</summary>
-![Screencast from 23-03-22 08_45_10 PM IST (1)](https://user-images.githubusercontent.com/87010265/159734807-7631426d-596b-40f9-8ed9-b483c15eea78.gif)
+<details>![Uploading Record_2023-10-05-21-44-42.gif…]()
+
     
 ## Getting Started
 
