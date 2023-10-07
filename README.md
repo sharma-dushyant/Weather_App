@@ -6,7 +6,7 @@
 
 <details>
 <summary>See ScreenShots</summary>
-<img src="https://user-images.githubusercontent.com/59178380/106931874-e0116d00-6738-11eb-909f-6db0d4c2a12e.png" alt="" width=300></img>
+![Record_2023-10-05-21-44-42](https://github.com/sharma-dushyant/Weather_App/assets/87010265/395ca7f8-51ce-48c4-afc9-a2af864f04d6)
 <img src="https://user-images.githubusercontent.com/59178380/106931850-d8ea5f00-6738-11eb-93c1-c162f40fd640.png" alt="" width=300></img>
 </details>
 
@@ -50,4 +50,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
