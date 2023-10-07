@@ -6,13 +6,8 @@
 
 <details>
 <summary>See Video</summary>
-<img src="file:///home/dushyant/Pictur![Record_2023-10-05-21-44-42](https://github.com/sharma-dushyant/Weather_App/assets/87010265/cff4fe8b-ed54-4d73-877f-734771734d7e)
-es/Record_2023-10-05-21-44-42.gif" alt="" width=300></img>
-<img src="https://user-images.githubusercontent.com/59178380/106931850-d8ea5f00-6738-11eb-93c1-c162f40fd640.png" alt="" width=300></img>
-</details>
-
-[Download APK](https://github.com/1hanzla100/flutter-weather/releases)
-
+![Screencast from 23-03-22 08_45_10 PM IST (1)](https://user-images.githubusercontent.com/87010265/159734807-7631426d-596b-40f9-8ed9-b483c15eea78.gif)
+    
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
