@@ -42,10 +42,8 @@ Prerequisite: https://flutter.dev/docs/get-started/install
 
 👤 **Hanzla Tauqeer**
 
-* Website: https://hanzla.now.sh
-* Twitter: [@1hanzla100](https://twitter.com/1hanzla100)
-* Github: [@1hanzla100](https://github.com/1hanzla100)
-* LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
+* Github: [@sharma-dushyant](https://github.com/sharma-dushyant)
+* LinkedIn: [@Dushyant Sharma](https://www.linkedin.com/in/d-sharma99/)
 
 ## 🤝 Contributing
 
