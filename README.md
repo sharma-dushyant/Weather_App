@@ -2,11 +2,12 @@
 
 > Weather App Built with Flutter and OpenWeatherMap API
 
-## 🚀 See Screenshots
+## 🚀 See Video
 
 <details>
 <summary>See Video</summary>
-<img src="file:///home/dushyant/Pictures/Record_2023-10-05-21-44-42.gif" alt="" width=300></img>
+<img src="file:///home/dushyant/Pictur![Record_2023-10-05-21-44-42](https://github.com/sharma-dushyant/Weather_App/assets/87010265/cff4fe8b-ed54-4d73-877f-734771734d7e)
+es/Record_2023-10-05-21-44-42.gif" alt="" width=300></img>
 <img src="https://user-images.githubusercontent.com/59178380/106931850-d8ea5f00-6738-11eb-93c1-c162f40fd640.png" alt="" width=300></img>
 </details>
 
