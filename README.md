@@ -30,7 +30,7 @@ Prerequisite: https://flutter.dev/docs/get-started/install
     ```
 4. Add OpenWeatherMap API KEY on lib/screens/Loading.dart
   ```dart
-  String apiKey = "<ADD API KEY HERE>";
+  const openWeatherApiKey = "";
   ```
 
 5. Run project.
